@@ -1,10 +1,10 @@
-**🗺️Nearest Indian Cities Recommender**
-Jan 2024 – Feb 2024
+##### 🗺️Nearest Indian Cities Recommender
+## Jan 2024 – Feb 2024
 
-**🚀Project Overview**
+### 🚀Project Overview
 Built a location-based City Recommendation System that suggests the nearest Indian cities based on a user’s current location. Leveraging geospatial data and machine learning (K-Nearest Neighbors), this tool helps users discover cities close to their current city using latitude and longitude information.
 
-**🔍 Features**
+### 🔍 Features
 
   - Takes user input for the current Indian city
   
@@ -16,7 +16,7 @@ Built a location-based City Recommendation System that suggests the nearest Indi
   
   - Error-handling for invalid city names
 
-**📊 Dataset**
+### 📊 Dataset
 
 CSV file: indian_cities.csv
 
