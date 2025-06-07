@@ -1,6 +1,4 @@
-
-##### Location Recommendation System
-
+#### Location Recommendation System
 ### 🚀Project Overview
 Built a location-based City Recommendation System that suggests the nearest Indian cities based on a user’s current location. Leveraging geospatial data and machine learning (K-Nearest Neighbors), this tool helps users discover cities close to their current city using latitude and longitude information.
 
